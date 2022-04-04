@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**otavioabreu27/otavioabreu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://i.pinimg.com/originals/aa/44/f4/aa44f4209b78579b5c56f9cd36d6d790.gif" height="50em" width="50em" alt="o_O"/>   
+  <b>Sup, welcome to my GitHub </b>
+  <img src="https://c.tenor.com/5C811jOACN4AAAAj/cute-dog.gif" height="50em" width="50em" alt="o_O"/> 
+</h1>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://c.tenor.com/C-S8dtjO6EcAAAAC/jojos-bizarre-adventures-jjba.gif" height="110em" width="110em" alt="Badass Kakyoin"/> 
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=otavioabreu27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://c.tenor.com/C-S8dtjO6EcAAAAC/jojos-bizarre-adventures-jjba.gif" height="110em" width="110em" alt="Badass Kakyoin"/>
+  <br></br>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" 
+  height="70px" widht="70px" alt="Java_Badge"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50px" width="50px" alt="Python_Badge"/>
+  <img src="https://www.demorodavel.com/wp-content/uploads/2019/09/ruby-logo.png" height="50px" width="50px" alt="Ruby_Badge"/>
+  <br></br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> I'm working on the RUBYPlayGame project rn, click 
+  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCtYuu6SmSyfmYnensPHZjquPXcEedQqNJNbRXQZjR&s">here</a>
+  to learn more.
+</p>
+
+
+

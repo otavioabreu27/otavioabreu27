@@ -5,10 +5,10 @@
 </h1>
 
 <div align="center">
-  <img src="https://c.tenor.com/C-S8dtjO6EcAAAAC/jojos-bizarre-adventures-jjba.gif" height="90em" width="90em" alt="Badass Kakyoin"/> 
-  <img height="90em" src="https://github-readme-stats.vercel.app/api?username=otavioabreu27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img src="https://c.tenor.com/C-S8dtjO6EcAAAAC/jojos-bizarre-adventures-jjba.gif" height="90em" width="90em" alt="Badass Kakyoin"/>
+  <img src="https://c.tenor.com/C-S8dtjO6EcAAAAC/jojos-bizarre-adventures-jjba.gif" height="100em" width="100em" alt="Badass Kakyoin"/> 
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=otavioabreu27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://c.tenor.com/C-S8dtjO6EcAAAAC/jojos-bizarre-adventures-jjba.gif" height="100em" width="100em" alt="Badass Kakyoin"/>
   <br></br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" 
   height="50px" widht="50px" alt="C_Badge"/>

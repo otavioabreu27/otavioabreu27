@@ -20,6 +20,20 @@
 <p align="left"> 
 </p>
 
+### Who am I 🤔
+My name is Otavio I'm 19, my favorite languages are C, Python and Ruby. I'm studying ***systems analysis and development*** at [UNIP](https://www.unip.br/) (Universidade Paulista).
+
+### Connect with me 🤝
+
+
+
+
+
+
+
+  
+
+
 
 
 

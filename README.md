@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://i.pinimg.com/originals/aa/44/f4/aa44f4209b78579b5c56f9cd36d6d790.gif" height="50em" width="50em" alt="o_O"/>   
   <b>Sup, welcome to my GitHub </b>
@@ -6,10 +5,10 @@
 </h1>
 
 <div align="center">
-  <img src="https://c.tenor.com/C-S8dtjO6EcAAAAC/jojos-bizarre-adventures-jjba.gif" height="110em" width="110em" alt="Badass Kakyoin"/> 
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=otavioabreu27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img src="https://c.tenor.com/C-S8dtjO6EcAAAAC/jojos-bizarre-adventures-jjba.gif" height="110em" width="110em" alt="Badass Kakyoin"/>
+  <img src="https://c.tenor.com/C-S8dtjO6EcAAAAC/jojos-bizarre-adventures-jjba.gif" height="90em" width="90em" alt="Badass Kakyoin"/> 
+  <img height="90em" src="https://github-readme-stats.vercel.app/api?username=otavioabreu27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://c.tenor.com/C-S8dtjO6EcAAAAC/jojos-bizarre-adventures-jjba.gif" height="90em" width="90em" alt="Badass Kakyoin"/>
   <br></br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" 
   height="50px" widht="50px" alt="C_Badge"/>
@@ -18,10 +17,11 @@
   <br></br>
 </div>
 
-<p align="left"> I'm working on the RUBYPlayGame project rn, click 
-  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCtYuu6SmSyfmYnensPHZjquPXcEedQqNJNbRXQZjR&s">here</a>
-  to learn more.
+<p align="left"> 
 </p>
+
+
+
 
 
 

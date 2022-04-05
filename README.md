@@ -11,8 +11,8 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&layout=compact&langs_count=7&theme=tokyonight"/>
   <img src="https://c.tenor.com/C-S8dtjO6EcAAAAC/jojos-bizarre-adventures-jjba.gif" height="110em" width="110em" alt="Badass Kakyoin"/>
   <br></br>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" 
-  height="70px" widht="70px" alt="Java_Badge"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" 
+  height="50px" widht="50px" alt="C_Badge"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50px" width="50px" alt="Python_Badge"/>
   <img src="https://www.demorodavel.com/wp-content/uploads/2019/09/ruby-logo.png" height="50px" width="50px" alt="Ruby_Badge"/>
   <br></br>

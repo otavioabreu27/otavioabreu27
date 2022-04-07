@@ -30,7 +30,7 @@ My name is Otavio I'm 19, my favorite languages are C, Python and Ruby. I'm stud
 </div>
 
 ### Projects 👀
-- [RUBYPlayGame](https://media.istockphoto.com/vectors/in-progress-stamp-vector-id1139372052)
+- [RUBYPlayGame](https://github.com/otavioabreu27/RBpg)
 
 
 

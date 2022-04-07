@@ -29,6 +29,10 @@ My name is Otavio I'm 19, my favorite languages are C, Python and Ruby. I'm stud
   <a href="https://www.linkedin.com/in/o-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+### Projects 👀
+- [RUBYPlayGame](https://media.istockphoto.com/vectors/in-progress-stamp-vector-id1139372052)
+
+
 
 
 

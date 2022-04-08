@@ -22,11 +22,13 @@
 
 ### Who am I 🤔
 My name is Otavio I'm 19, my favorite languages are C, Python and Ruby. I'm studying ***systems analysis and development*** at [UNIP](https://www.unip.br/) (Universidade Paulista).
+I'm also streaming a program called **"Programming until I get a Job (Speedrun)"** on Twtich, where I'm documenting my everyday journey to become a better dev and get a job.
 
 ### Connect with me 🤝
 <div> 
-  <a href = "mailto:otavio.abreu96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/o-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:otavio.abreu96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="35em" weight"60em"></a>
+  <a href="https://www.linkedin.com/in/o-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="35em" weight"60em"></a> 
+  <a href="https://www.twitch.tv/strangepoison" target="_blank"><img src="https://img.shields.io/badge/-Twitch-purple" target="_blank" height="35em" weight"60em"></a>
 </div>
 
 ### Projects 👀

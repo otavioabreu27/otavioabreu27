@@ -22,7 +22,7 @@
 
 ### Who am I 🤔
 My name is Otavio I'm 19, my favorite languages are C, Python and Ruby. I'm studying ***systems analysis and development*** at [UNIP](https://www.unip.br/) (Universidade Paulista).
-I'm also streaming a program called **"Programming until I get a Job (Speedrun)"** on Twtich, where I'm documenting my everyday journey to become a better dev and get a job.
+I'm also streaming a program called **"Programming until I get a Job (Speedrun)"** on [Twitch](https://www.twitch.tv/strangepoison), where I'm documenting my everyday journey to become a better dev and get a job.
 
 ### Connect with me 🤝
 <div> 

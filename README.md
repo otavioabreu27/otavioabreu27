@@ -3,8 +3,8 @@
 </div>
 </br>
 <div align="center">
-  <img height="95em" src="https://github-readme-stats.vercel.app/api?username=otavioabreu27&show_icons=true&theme=oceandark&include_all_commits=true&count_private=true"/>
-  <img height="96em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&layout=compact&langs_count=7&theme=oceandark"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=otavioabreu27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&layout=compact&langs_count=7&theme=dark"/>
   <br></br>
 </div>
 
@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/o-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="35em" weight"60em"></a> 
   <a href="https://www.twitch.tv/strangepoison" target="_blank"><img src="https://img.shields.io/badge/-Twitch-purple" target="_blank" height="35em" weight"60em"></a>
 </div>
-
+</br>
 <div align="center">
     <img src="https://i.pinimg.com/originals/f4/52/a2/f452a2f4b634b3011e065da8eaf0a5c3.gif" height="70" width="1100" alt="down_logo"/>
 </div>

@@ -1,9 +1,7 @@
 <div align="center">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/327d0c94586577.5e8295121fdd2.gif" height="70" width="1100" alt="up_logo"/>
+    <img src="https://i.pinimg.com/originals/f4/52/a2/f452a2f4b634b3011e065da8eaf0a5c3.gif" height="70" width="1100" alt="up_logo"/>
 </div>
-
-<h1 align="center"> <b>Welcome stranger!</b> </h1>
-
+</br>
 <div align="center">
   <img height="95em" src="https://github-readme-stats.vercel.app/api?username=otavioabreu27&show_icons=true&theme=oceandark&include_all_commits=true&count_private=true"/>
   <img height="96em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&layout=compact&langs_count=7&theme=oceandark"/>
@@ -38,6 +36,6 @@
 </div>
 
 <div align="center">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/327d0c94586577.5e8295121fdd2.gif" height="70" width="1100" alt="down_logo"/>
+    <img src="https://i.pinimg.com/originals/f4/52/a2/f452a2f4b634b3011e065da8eaf0a5c3.gif" height="70" width="1100" alt="down_logo"/>
 </div>
 

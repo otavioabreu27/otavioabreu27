@@ -1,17 +1,14 @@
-<h1 align="center">
-  <img src="https://i.pinimg.com/originals/aa/44/f4/aa44f4209b78579b5c56f9cd36d6d790.gif" height="50em" width="50em" alt="o_O"/>   
-  <b>Sup, welcome to my GitHub </b>
-  <img src="https://c.tenor.com/5C811jOACN4AAAAj/cute-dog.gif" height="50em" width="50em" alt="o_O"/> 
-</h1>
-
 <div align="center">
-  <img src="https://c.tenor.com/C-S8dtjO6EcAAAAC/jojos-bizarre-adventures-jjba.gif" height="95em" width="95em" alt="Badass Kakyoin"/> 
-  <img height="95em" src="https://github-readme-stats.vercel.app/api?username=otavioabreu27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="96em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img src="https://c.tenor.com/C-S8dtjO6EcAAAAC/jojos-bizarre-adventures-jjba.gif" height="95em" width="95em" alt="Badass Kakyoin"/>
-  <br></br>
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/327d0c94586577.5e8295121fdd2.gif" height="70" width="1100" alt="up_logo"/>
 </div>
 
+<h1 align="center"> <b>Welcome stranger!</b> </h1>
+
+<div align="center">
+  <img height="95em" src="https://github-readme-stats.vercel.app/api?username=otavioabreu27&show_icons=true&theme=oceandark&include_all_commits=true&count_private=true"/>
+  <img height="96em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&layout=compact&langs_count=7&theme=oceandark"/>
+  <br></br>
+</div>
 
 ### Who am I? 👨🏻‍💻
 
@@ -40,20 +37,7 @@
   <a href="https://www.twitch.tv/strangepoison" target="_blank"><img src="https://img.shields.io/badge/-Twitch-purple" target="_blank" height="35em" weight"60em"></a>
 </div>
 
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
+<div align="center">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/327d0c94586577.5e8295121fdd2.gif" height="70" width="1100" alt="down_logo"/>
+</div>
 

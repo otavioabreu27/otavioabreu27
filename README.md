@@ -2,11 +2,18 @@
     <img src="https://i.pinimg.com/originals/f4/52/a2/f452a2f4b634b3011e065da8eaf0a5c3.gif" height="70" width="1100" alt="up_logo"/>
 </div>
 </br>
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=otavioabreu27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height ="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&langs_count=7&theme=dark"/>
-  <br></br>
+<hr>
+  <details>
+    <summary> GH Stats ☕</summary>
+      <div align="center">
+      <img height="100em" src="https://github-readme-stats.vercel.app/api?username=otavioabreu27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&layout=compact&langs_count=7&theme=dark"/>  
+      <img height="400em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/322f0533-2833-4514-95de-b93d38f80b36.svg"/>
+  </details>
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Who am I? 👨🏻‍💻
 

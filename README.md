@@ -11,9 +11,6 @@
   </details>
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### Who am I? 👨🏻‍💻
 
 >My name is Otavio, and I'm a 19 years old brazilian student of ***System Analysis and Development*** at [Unip](unip.br) (Universidade Paulista).

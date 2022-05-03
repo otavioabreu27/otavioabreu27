@@ -8,7 +8,6 @@
       <div align="center">
       <img height="100em" src="https://github-readme-stats.vercel.app/api?username=otavioabreu27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
       <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&layout=compact&langs_count=7&theme=dark"/>  
-      <img height="400em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/7550d592-098b-49ee-b859-ffc787b19308.svg"/>
   </details>
 </div>
 

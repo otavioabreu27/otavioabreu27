@@ -6,8 +6,8 @@
   <details>
     <summary> GH Stats ☕</summary>
       <div align="center">
-      <img height="100em" src="https://github-readme-stats.vercel.app/api?username=otavioabreu27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&layout=compact&langs_count=7&theme=dark"/> 
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=otavioabreu27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioabreu27&layout=compact&langs_count=7&theme=dark"/> 
       </br
       <!--START_SECTION:waka-->
       <img height="300em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/52d28a0d-c8b4-4d0a-b2e9-3c395589d0fd.svg"/>

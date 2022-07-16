@@ -1,39 +1,21 @@
 <div align="center">
     <img src="https://i.pinimg.com/originals/f4/52/a2/f452a2f4b634b3011e065da8eaf0a5c3.gif" height="70" width="1100" alt="up_logo"/>
-</div>
-</br>
-<hr>
-  <details>
-    <summary> GH Stats ☕</summary>
-      <div align="center">
+</div></br>
+<div align="center">
+      <h1><strong>👨‍💻 Jr Web Dev </strong></h1>
       <!--START_SECTION:waka-->
-      <img height="300em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/52d28a0d-c8b4-4d0a-b2e9-3c395589d0fd.svg"/>
-      <img height="300em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/504a0e5b-5685-4e20-b61e-6fc0cf555e95.svg"/>
+      <img height="330em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/52d28a0d-c8b4-4d0a-b2e9-3c395589d0fd.svg"/>
+      <img height="330em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/504a0e5b-5685-4e20-b61e-6fc0cf555e95.svg"/>
       <!--END_SECTION:waka-->
-  </details>
+</div><br>
+
+<div align="center">
+    <img height="60" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/>
+    <img height="60" src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png"/>
+    <img height="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
+    <img height="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png"/>
 </div>
 
-### Who am I? 👨🏻‍💻
-
->My name is Otavio, and I'm a 19 years old brazilian student of ***System Analysis and Development*** at [Unip](unip.br) (Universidade Paulista).
->
->Rn i'm participating of a ***bootcamp*** and studying to become a ***fullstack dev***, while I do it I'm ***hosting*** a stream at [Twitch](twitch.tv/strangepoison) where I try to ***document*** my way to become a Junior Dev and get hired.
-
-
-
-### My purposes! 💪
-
-> If you're asking "why are you streaming your way to become a dev?" well, I'll explain. For a long time, the difficulty in actually exposing my professional competence was the reason why I didn't want to work as a developer. It felt like applying to be a translator without knowing if I could speak the foreign language in the way that I should. Even though I've done it for the last three years I didn't felt like I could prove my programming proficiency or even know if I was capable of filling that job opening, and that was the main thing that held me down.
->
-> At the time I didn't had the maturity to sit and actually think of a way, I saw my friends get hired and was too shy to ask them how could I do it too. So, to prevent future aspiring developers to pass through this situation I'm doing a documentation of the way that I took to make it.
->
-> I believe that education is a right of every living people, that information should reach everybody and as long as I can I'll do my best to make my part ;).
->
-> **Getting there alone, is getting anywhere. None of us is stronger that all of us together.**
-
-
-
-### Connect with me! 🌎
 <div> 
   <a href = "mailto:otavio.abreu96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="35em" weight"60em"></a>
   <a href="https://www.linkedin.com/in/o-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="35em" weight"60em"></a> 

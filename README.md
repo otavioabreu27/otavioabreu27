@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.pinimg.com/originals/f4/52/a2/f452a2f4b634b3011e065da8eaf0a5c3.gif" height="70" width="1100" alt="up_logo"/>
+    <img src="https://i.pinimg.com/originals/f4/52/a2/f452a2f4b634b3011e065da8eaf0a5c3.gif" height="70" width="900" alt="up_logo"/>
 </div></br>
 <div align="center">
       <h1><strong>👨‍💻 Jr Web Dev </strong></h1>
@@ -14,6 +14,7 @@
     <img height="60" src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png"/>
     <img height="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
     <img height="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png"/>
+    <img height="60" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png"/>
 </div>
 
 <div> 
@@ -23,6 +24,6 @@
 </div>
 </br>
 <div align="center">
-    <img src="https://i.pinimg.com/originals/f4/52/a2/f452a2f4b634b3011e065da8eaf0a5c3.gif" height="70" width="1100" alt="down_logo"/>
+    <img src="https://i.pinimg.com/originals/f4/52/a2/f452a2f4b634b3011e065da8eaf0a5c3.gif" height="70" width="900" alt="down_logo"/>
 </div>
 

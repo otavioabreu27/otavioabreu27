@@ -1,7 +1,4 @@
 <div align="center">
-    <img src="https://i.pinimg.com/originals/f4/52/a2/f452a2f4b634b3011e065da8eaf0a5c3.gif" height="70" width="900" alt="up_logo"/>
-</div></br>
-<div align="center">
       <h1><strong>👨‍💻 Jr Web Dev </strong></h1>
       <!--START_SECTION:waka-->
       <img height="300em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/52d28a0d-c8b4-4d0a-b2e9-3c395589d0fd.svg"/>
@@ -23,7 +20,4 @@
   <a href="https://www.twitch.tv/strangepoison" target="_blank"><img src="https://img.shields.io/badge/-Twitch-purple" target="_blank" height="35em" weight"60em"></a>
 </div>
 </br>
-<div align="center">
-    <img src="https://i.pinimg.com/originals/f4/52/a2/f452a2f4b634b3011e065da8eaf0a5c3.gif" height="70" width="900" alt="down_logo"/>
-</div>
 

@@ -1,8 +1,8 @@
 <div align="center">
       <!--START_SECTION:waka-->
-      <img src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/52d28a0d-c8b4-4d0a-b2e9-3c395589d0fd.svg"/>
+      <img height="400em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/52d28a0d-c8b4-4d0a-b2e9-3c395589d0fd.svg"/>
       </br>
-      <img src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/504a0e5b-5685-4e20-b61e-6fc0cf555e95.svg"/>
+      <img height="400em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/504a0e5b-5685-4e20-b61e-6fc0cf555e95.svg"/>
       <!--END_SECTION:waka-->
 </div><br>
 

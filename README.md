@@ -10,10 +10,10 @@
       </br>
       </br>
       <a href="https://www.linkedin.com/in/o-abreu/">
-            <img height="40em" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <a href="https://www.instagram.com/otavio.abreu.dss/">
-            <img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="">
+            <img src="https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
       </a>    
 </div>
 

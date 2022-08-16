@@ -1,23 +1,27 @@
 <div align="center">
-      <!--START_SECTION:waka-->
-      <img height="400em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/52d28a0d-c8b4-4d0a-b2e9-3c395589d0fd.svg"/>
+      <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt=""/>
+      <img height="50em" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt=""/>
+      <img height="50em" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt=""/>
+      <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt=""/>
       </br>
-      <img height="400em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/504a0e5b-5685-4e20-b61e-6fc0cf555e95.svg"/>
-      <!--END_SECTION:waka-->
-</div><br>
+      <img height="50em" src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt=""/>
+      <img height="50em" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt=""/>
+      <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt=""/>
+      </br>
+      </br>
+      <a href="https://www.linkedin.com/in/o-abreu/">
+            <img height="40em" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="">
+      </a>
+      <a href="https://www.instagram.com/otavio.abreu.dss/">
+            <img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="">
+      </a>    
+</div>
 
 <div align="center">
-    <img height="60" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/>
-    <img height="60" src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png"/>
-    <img height="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
-    <img height="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png"/>
-    <img height="60" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png"/>
-</div>
-
-<div> 
-  <a href = "mailto:otavio.abreu96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="35em" weight"60em"></a>
-  <a href="https://www.linkedin.com/in/o-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="35em" weight"60em"></a> 
-  <a href="https://www.twitch.tv/strangepoison" target="_blank"><img src="https://img.shields.io/badge/-Twitch-purple" target="_blank" height="35em" weight"60em"></a>
-</div>
-</br>
-
+      <h2><strong>Coding Stats 💻</strong></h2>
+      <!--START_SECTION:waka-->
+      <img height="500em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/db82a717-392d-4e58-ad2a-c4d417002241.svg"/>
+      </br>
+      <img height="500em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/938326a0-baab-4cc5-832b-5b06f441fa49.svg"/>
+      <!--END_SECTION:waka-->
+</div><br>

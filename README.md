@@ -9,7 +9,7 @@
       <img height="50em" src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt="flask-badge"/>
       <img height="50em" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="nodejs-badge"/>
       <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgres-badge"/>
-      <hr>
+      </br>
       <h1> Contatos </h1>
       <a href="https://www.linkedin.com/in/o-abreu/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +17,7 @@
       <a href="https://www.instagram.com/otavio.abreu.dss/">
             <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
       </a>  
-      <hr>  
+      </br>  
       <h1> Números para nerds </h1>
       <!--START_SECTION:waka-->
       <img height="500em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/00a83e0f-f027-4c37-9c02-6bcf1202f51e.png"/>

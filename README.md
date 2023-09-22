@@ -1,38 +1,18 @@
-# Olá seja bem vindo!
-## sobre.json
-```json
-{
-   "nome":"Otávio Abreu dos Santos Silva",
-   "ocupacao":"Programador Fullstack",
-   "idade": 20,
-   "profissional":{
-      "atual":[
-         "Programador",
-         "INPE"
-      ]
-   },
-   "educacao":{
-      "superior":[
-         "Fatec SJC",
-         "cursando"
-      ],
-      "tecnico":[
-         "UNIVAP CTI",
-         "concluido"
-      ]
-   },
-   "hobbies":[
-      "Ensinar",
-      "Literatura",
-      "Arte",
-      "Música",
-      "Praia"
-   ]
-}
-```
-## Números para nerds
-<!--START_SECTION:waka-->
-<img height="500em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/00a83e0f-f027-4c37-9c02-6bcf1202f51e.png"/>
-</br>
-<img height="500em" src="https://wakatime.com/share/@26901d77-dd3d-4f36-85b8-e670f5580e75/83c29bf1-159b-44e8-8ec8-cb42ad79cee9.png"/>
-<!--END_SECTION:waka-->
+## Welcome 🐙
+
+**Junior Fullstack Developer at [Instituto Nacional de Pesquisas Espaciais](https://www.gov.br/inpe/pt-br)**
+
+**Multiplataform Software Development [3/6] at [Fatec SJC](https://sjc.fatec.sp.gov.br/)**
+
+<div align="center">
+   
+   ![Otavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavioabreu27&theme=default&show_icons=true)
+   
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</div>

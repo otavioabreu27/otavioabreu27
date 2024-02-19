@@ -2,7 +2,7 @@
 
 **Junior Fullstack Developer at [Instituto Nacional de Pesquisas Espaciais](https://www.gov.br/inpe/pt-br)**
 
-**Multiplataform Software Development [3/6] at [Fatec Jacareí](https://sjc.fatec.sp.gov.br/)**
+**Multiplataform Software Development [3/6] at [Fatec Jacareí](https://www.fatecjacarei.com.br/)**
 
 <div align="center">
    

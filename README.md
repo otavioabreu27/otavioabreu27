@@ -2,7 +2,7 @@
 
 **Junior Backend Developer at [Sensedia](https://www.sensedia.com.br/) Open Finance Team.**
 
-**Multiplataform Software Development [5/6] at [Fatec Jacareí](https://www.fatecjacarei.com.br/)**
+**Multiplataform Software Development [6/6] at [Fatec Jacareí](https://www.fatecjacarei.com.br/)**
 
 <div align="center">
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />

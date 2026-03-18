@@ -1,7 +1,5 @@
 ## Welcome 🐙
 
-**Backend Developer at [Sensedia](https://www.sensedia.com.br/) Open Finance Team.**
-
 **Multiplataform Software Development [6/6] at [Fatec Jacareí](https://www.fatecjacarei.com.br/)**
 
 <div align="center">

@@ -1,38 +1,18 @@
 # Hi, I'm Otávio Abreu 👋
 
-I'm a software engineer and CEO & Founder of UniLaunch, a social-impact initiative that helps students gain real-world engineering experience by building software for NGOs, social causes, and local projects.
+Software engineer, CEO & Founder of [UniLaunch](https://unilaunch.org), and MBA student in Software Architecture. I graduated in Multiplatform Software Development from [Fatec Jacareí](https://fatecjacarei.cps.sp.gov.br/) and I'm currently open to new opportunities.
 
-I graduated in Multiplatform Software Development from [Fatec Jacareí](https://fatecjacarei.cps.sp.gov.br/) and I'm currently pursuing an MBA in Software Architecture. My long-term goal is to become a software architect who can connect product vision, resilient systems, performance, and positive social impact.
+I have experience with Java, Kotlin, Spring, Rust, Python, Open Finance, distributed systems, software performance, edge services, and end-to-end software architecture and refactoring.
 
-As a founder, I have helped lead UniLaunch from an educational initiative into a growing social project that has raised R$13,000 in investment. The project is focused on making technology careers more accessible while proving that efficient architecture can also be a tool for social transformation.
+I also contributed to the creation of an internal cloud for INPE's Queimadas Program and advised on the architecture and development of the mission-critical GOES-16 fire-monitoring system. It generates heat-spot data every 10 minutes, enabling real-time monitoring of fire-front progression.
 
-## What I work with
+As CEO & Founder, I lead [UniLaunch](https://unilaunch.org), a social-impact project that helps students gain real-world engineering experience through software for NGOs and social initiatives. The project has raised R$13,000 in investment and is focused on efficient, sustainable, and socially impactful technology.
 
-- Backend and distributed systems with Java, Kotlin, and Spring
-- High-performance services and edge-oriented architectures with Rust
-- Python for satellite image processing and geospatial data workflows
-- Open Finance and financial technology
-- Cloud infrastructure, Docker, Kubernetes, and AWS
-- Sustainable software engineering and socially impactful technology
+Through [Stackvize](https://stackvize.org), I also provide B2B services for companies, including website development and other focused technology engagements. I have additional professional experiences that are not listed here.
 
-## A little about my approach
+## Let's connect
 
-I care about software that is efficient, maintainable, and useful beyond the codebase itself. Working with a resource-constrained social project taught me that performance is not merely an optimization goal: it can reduce infrastructure costs and make more resources available to the people and organizations a product serves.
-
-I'm especially interested in software architecture, systems performance, edge services, green development, and engineering practices that create opportunities for people who are still building their first professional experience.
-
-## Featured project
-
-### UniLaunch Platform
-
-UniLaunch is a social engineering ecosystem born at Fatec Jacareí. Students contribute to real projects, build an evidence-based portfolio through approved tasks and pull requests, and can have their experience documented for academic internship requirements where applicable.
-
-The platform is built around lean engineering and social impact. Its technical direction includes a Rust backend and a SvelteKit frontend, with the goal of keeping infrastructure efficient while supporting students and organizations that could not otherwise afford custom software.
-
-## Connect with me
-
-- [LinkedIn](https://linkedin.com/in/o-abreu)
-- [GitHub](https://github.com/otavioabreu27)
+I'm open to new opportunities and professional conversations on [LinkedIn](https://linkedin.com/in/o-abreu).
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
